@@ -8,23 +8,22 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'mày à!',
+    introDesc: `dù qua 1/6 hay còn gọi là
+    quốc tế thiếu nhi á ,mày có muốn tặng 
+    quà không hãy trả lời cho tao biết`,
+    btnIntro: 'ok',
+    title: 'Phải chăng mày không muốn tặng quà 😙',
+    desc: 'Phải chăng mày đã trưởng thành ',
+    btnYes: 'đúng rồi tao đã trưởng thành',
+    btnNo: 'không t vẫn muốn tặng quà',
+    question:'Trên thế giới hơn 7 tỉ người mà mày lại đòi quà t',
+    btnReply: 'gửi cho tao',
+    reply: 'thôi t không cần quà nữa đâu',
+    mess: 'tao biết mà cảm ơn mày nhiều',
+    messDesc: 'vày là m không cần quà đúng không',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.messenger.com/t/100057340044692'
 }
 ```
 
