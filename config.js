@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'cái ghế à!',
+    introDesc: `dù 1/6 hay còn gọi là quốc tế thiếu nhi đã qua nhưng m có muốn tặng quà không hãy nói cho t biết`,
+    btnIntro: 'ok ',
+    title: 'phải chăng mày không thích t tặng quà đúng không',
+    desc: 'Phải chăng m không thích làm thiếu nhi nữa đúng không ',
+    btnYes: 'ừ t muốn m không phải mất tiền ',
+    btnNo: 'có chứ t vẫn muốn làm thiếu nhi',
+    question:'Trên thế giới hơn 7 tỉ người mà sao m lại đòi quà t (mà quên dân số tăng lên 8 tỉ rồi) <3',
+    btnReply: 'cảm ơn vì đã tiết kiệm tiền cho t',
+    reply: 'cảm ơn vì đã tiết kiệm tiền cho t :)',
+    mess: 't biết mà 🥰. cảm ơn m nhiều nhiều nhiều 😘😘',
+    messDesc: 'hỏi lại lần cuối nhé m có thích quà không.',
+    btnAccept: 'khôngggg',
+    messLink: 'http://www.facebook.com/zenngannguyen
 }
