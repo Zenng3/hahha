@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 't biết mà 🥰. cảm ơn m nhiều nhiều nhiều 😘😘',
     messDesc: 'hỏi lại lần cuối nhé m có thích quà không.',
     btnAccept: 'khôngggg',
-    messLink: 'http://www.facebook.com/zenngannguyen
+    
 }
